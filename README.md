@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=skiisgod+%7C%7C+p3x.7;Future+software+engineer;reverser)](https://git.io/typing-svg)
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Ida_skiisgod.png" width="147"/> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Ida_skiisgod.png" width="200"/> 
 
 
 ```csharp
